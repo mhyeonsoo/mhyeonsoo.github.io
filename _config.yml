@@ -19,23 +19,24 @@ resume_contact_email:           "mhyeonsoo@gmail.com"
 resume_header_contact_info:     " • mhyeonsoo@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>AI Engineer who has been developing in various domains and projects.
-
-Vision
-- Object Detection & Segmentation
-- Object Classification
-- Rule-based computer vision
-
-Others
-- Voice recognition
-- Keyword extraction, entity extraction
-- Android / Edge devices
-- Server/client inference architecture
-
-Industry Domains
-- Appliances
-- Security
-- Retail</p>"
+resume_header_intro: "<p>AI Engineer who has been developing in various domains and projects.</p>
+<br><br>
+Vision<br>
+- Object Detection & Segmentation<br>
+- Object Classification<br>
+- Rule-based computer vision<br>
+<br><br>
+Others<br>
+- Voice recognition<br>
+- Keyword extraction, entity extraction<br>
+- Android / Edge devices<br>
+- Server/client inference architecture<br>
+<br><br>
+Industry Domains<br>
+- Appliances<br>
+- Security<br>
+- Retail</p>"<br>
+<br><br>
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -49,22 +50,13 @@ resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        true
 resume_section_skills:          true
-resume_section_recognition:     true
-resume_section_links:           true
-resume_section_associations:    true
 # resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
-  # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
-  # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
-  resume_medium_url:            "https://medium.com/@jglovier"
+  resume_github_url:            "https://github.com/mhyeonsoo"
+  resume_linkedin_url:          "https://www.linkedin.com/in/hyeonsoo-moon/"
 resume_print_social_links:      true
 
 # Design settings
