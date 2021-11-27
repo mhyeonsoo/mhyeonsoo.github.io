@@ -3,7 +3,7 @@ title: "Hyeonsoo Moon"
 description: "Hyeonsoo Moon, Introduction."
 
 # Build settings
-markdown: kramdown
+markdown: markdown
 sass:
   sass_dir: _sass
   style: compressed
