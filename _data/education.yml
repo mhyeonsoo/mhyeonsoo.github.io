@@ -1,13 +1,13 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Master of Science, Electrical Engineering
+  uni: Vanderbilt University
+  year: 2016 &mdash; 2018
+  Thesis:
+    - thesis: Automated End-to-End Pipeline for Clinical trial segmentation
+  summary: Developed an automated pipeline for deep learning based spleen segmentation in MASI Lab (https://github.com/moonh1/DeepSpleen)
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Bachelor's degree
+  uni: Kyunghee Unversity
+  year: 2016
+  award: Golden prize winner
+  summary: Studied and developed with vision-related projects
