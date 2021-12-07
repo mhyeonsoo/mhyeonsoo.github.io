@@ -49,7 +49,7 @@ resume_social_links:
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/hyeonsoo-moon/"
   # resume_instagram_url:         "insert your Instagram URL here"
-  #resume_website_url:           "http://joelglovier.com"
+  resume_website_url:           "https://mhyeonsoo.github.io/images/Resume_HyeonsooMoon.pdf"
   #resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
